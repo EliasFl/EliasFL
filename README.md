@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliasfl" alt="eliasfl" /></a> </p>
 
-- 💬 Ask me about **react, vue, javascript**
+- 💬 Ask me about **anything related to technology and programming, I love it**
 
 - 📫 How to reach me **eliasflores13@outlook.com**
 
-- ⚡ Fun fact **I like video games, anime, manga, series in general and basketball**
+- ⚡ Fun fact **The original oranges from Southeast Asia were a tangerine-pomelo hybrid, and they were actually green. In fact, oranges in warmer regions like Vietnam and Thailand still stay green through maturity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
