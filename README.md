@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **eliasflores13@outlook.com**
 
-- ⚡ Fun fact **The original oranges from Southeast Asia were a tangerine-pomelo hybrid, and they were actually green. In fact, oranges in warmer regions like Vietnam and Thailand still stay green through maturity.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/eliasflores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eliasflores" height="30" width="40" /></a>
